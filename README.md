@@ -1,2 +1,1 @@
-# TechNestIntern-webinar
-TechNestIntern-auto-mailer-webinar
+# TechNestIntern-auto-mailer
