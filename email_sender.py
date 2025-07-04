@@ -28,19 +28,19 @@ html_body = """
   <body style="font-family: Arial, sans-serif; background-color: #f7f9fc; padding: 20px; color: #333;">
     <div style="max-width: 600px; margin: auto; background-color: #ffffff; border-radius: 10px; padding: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
 
-      <p style="font-size: 16px;">Dear ,</p>
+      <p style="font-size: 16px;">Dear,</p>
       <p style="font-size: 16px;">Hope you’re doing well!</p>
 
       <p style="font-size: 17px;">🚨 <strong>You're invited!</strong> Join us for an exclusive <strong>free live webinar</strong> by <strong>TechNest Intern</strong>:</p>
 
       <hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
 
-      <h3 style="color: #2c3e50;">🧠 “Building Smart Prompt Packs: A Step-by-Step Journey to Smarter Conversations with AI 🤖”</h3>
+      <h3 style="color: #2c3e50;">🧠 “ From Prompt to Product:Architecting Scalable AI Systems with Empathy & Elegance🤖”</h3>
       <ul style="padding-left: 20px;">
-      <li><strong>📅 Date:</strong> 29th June, Sunday</li>
+      <li><strong>📅 Date:</strong> 5th July, Saturday</li>
       <li><strong>⏰ Time:</strong> 8:00 PM – 9:00 PM IST</li>
       <li><strong>🎓 Certificate:</strong> Participation certificate for all attendees</li>
-      <li><strong>📍 Mode:</strong> Online (Zoom/Meet)</li>
+      <li><strong>📍 Mode:</strong> Online (Google Meet)</li>
       <p>✅ Learn practical prompt tips for ChatGPT, Bard, Gemini & more!<br>
       ✅ Mentored by expert Training Coach – <strong>Sagar Chavan</strong></p>
 
@@ -54,7 +54,7 @@ html_body = """
 
       <h3 style="color: #2c3e50;">💬 Want to Support Us?</h3>
       <p>We shared this on LinkedIn to reach more learners 🚀</p>
-      👉 <a href="https://www.linkedin.com/posts/technestintern_intrested-technestintern-freewebinar-activity-7343164213147660288-eVJ0/" target="_blank" style="color: #007bff; text-decoration: none;">Visit the LinkedIn Post</a>
+      👉 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7346028362114502656" target="_blank" style="color: #007bff; text-decoration: none;">Visit the LinkedIn Post</a>
 
       <p>If you believe in TechNest Intern and our mission:</p>
       <ul style="padding-left: 20px;">
