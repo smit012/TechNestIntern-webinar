@@ -35,9 +35,9 @@ html_body = """
 
       <hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
 
-      <h3 style="color: #2c3e50;">🧠 “ From Prompt to Product:Architecting Scalable AI Systems with Empathy & Elegance🤖”</h3>
+      <h3 style="color: #2c3e50;">🧠 “  Mahabharat of Prompts: Aligning Truth, Bias, and Outcomes in Generative AI  🤖”</h3>
       <ul style="padding-left: 20px;">
-      <li><strong>📅 Date:</strong> 5th July, Saturday</li>
+      <li><strong>📅 Date:</strong>  15th July , Tuesday </li>
       <li><strong>⏰ Time:</strong> 8:00 PM – 9:00 PM IST</li>
       <li><strong>🎓 Certificate:</strong> Participation certificate for all attendees</li>
       <li><strong>📍 Mode:</strong> Online (Google Meet)</li>
@@ -54,7 +54,7 @@ html_body = """
 
       <h3 style="color: #2c3e50;">💬 Want to Support Us?</h3>
       <p>We shared this on LinkedIn to reach more learners 🚀</p>
-      👉 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7346028362114502656" target="_blank" style="color: #007bff; text-decoration: none;">Visit the LinkedIn Post</a>
+      👉 <a href="https://www.linkedin.com/posts/technestintern_interested-technestintern-projectbasedlearning-activity-7348928805085851649-KIq7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyrA8ABDjvqLEXOyKCCPROvoy4zopaDM3M" target="_blank" style="color: #007bff; text-decoration: none;">Visit the LinkedIn Post</a>
 
       <p>If you believe in TechNest Intern and our mission:</p>
       <ul style="padding-left: 20px;">
