@@ -74,7 +74,7 @@ html_body = """
       🔗<a href="https://www.linkedin.com/company/technestintern/about/" target="_blank" style="color: #007bff;">Follow on LinkedIn</a>
       </p>
 
-      <img src="https://i.ibb.co/Y4vZ2819/logo.png" alt="TechNest Logo" width="140" style="margin-top: 20px;">
+      <img src="https://ibb.co/tTmKYz4f" alt="TechNest Logo" width="140" style="margin-top: 20px;">
 
     </div>
   </body>
